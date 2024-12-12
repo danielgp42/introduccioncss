@@ -1,0 +1,43 @@
+h1{
+   padding-top: 50px;
+   padding-right: 10px;
+}
+
+.texto-custom{
+    font-size: 60px;
+    color:red;
+    background-color: blue;
+    margin-bottom: 100px;
+}
+.texto-custom-dos{
+    font-size: 60px;
+    color:yellow;
+    background-color: brown;
+    margin-bottom: 100px;
+}
+espacio-abajo-custom{
+    margin-bottom: 100px;
+}
+
+span{
+    margin-bottom: 400px;
+}
+#identificador-parrafo{
+    margin-top: 70px;
+}
+.list-item{
+    margin-left: 50px;
+}
+ul .list-item{
+    background-color: aquamarine ;
+    border: 2px salmon;
+}
+ul .list-item a_hover{
+    color: blueviolet;
+}
+ul .list-item .hipervinculo-especial{
+    color: chartreuse ;
+}
+ul .list-item .hipervinculo-especial-dos{
+    font-size: xx-large;
+}
